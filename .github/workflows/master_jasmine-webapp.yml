@@ -63,4 +63,4 @@ jobs:
           app-name: 'jasmine-WebApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48E1066F2F504168A7B1D93F9B8E2BD6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_229A36D68F77499D93B26E15067230F5 }}
